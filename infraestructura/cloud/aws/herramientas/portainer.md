@@ -18,6 +18,6 @@ docker run -d -p 9003:9000 --restart always --name portainer -v /var/run/docker.
 http://x.x.x.x:9000
 ```
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Configurar usuario y contraseña</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Configurar usuario y contraseña</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Portal Portainer</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Portal Portainer</p></figcaption></figure>

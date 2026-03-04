@@ -5,9 +5,9 @@ description: >-
   la información.
 ---
 
-# AWS CCP
+# eJPT Certificación
 
-![200 Dollars Certification](<../.gitbook/assets/Certicate eJPT.png>)
+![200 Dollars Certification](<../../../.gitbook/assets/Certicate eJPT.png>)
 
 ## Conocimientos Necesarios
 

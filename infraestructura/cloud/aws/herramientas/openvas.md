@@ -22,7 +22,7 @@ sudo apt install openvas -y
 sudo gvm-setup
 ```
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Entrega de credenciales OpenVAS</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Entrega de credenciales OpenVAS</p></figcaption></figure>
 
 ### Verificar instalación
 
@@ -46,7 +46,7 @@ ExecStart=/usr/local/sbin/gsad --foreground --listen=0.0.0.0 --port=9001
 https://x.x.x.x:9001
 ```
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Portal de incio de sesión</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Portal de incio de sesión</p></figcaption></figure>
 
 ### Actualizar motores de busqueda
 

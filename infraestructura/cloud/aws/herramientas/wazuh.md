@@ -54,9 +54,9 @@ Ingresar al dashboard de administración de Wazuh
 
 > https://10.10.10.10:9010
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ## Integraciones
 
@@ -83,7 +83,7 @@ Ingresar al dashboard de administración de Wazuh
   </office365>
 ```
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ### Virustotal
 
@@ -242,7 +242,7 @@ NET START Wazuh
 
 Tableros office 365
 
-{% file src="../../../.gitbook/assets/tablero wazuh - office365.ndjson" %}
+{% file src="../../../../.gitbook/assets/tablero wazuh - office365.ndjson" %}
 
 ## Problemas Conocidos
 

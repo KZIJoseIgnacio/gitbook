@@ -40,6 +40,6 @@ Mi investigación confirmó que **es posible implementar un SOC eficiente y efec
 
 Estoy convencido de que el uso de software open source en ciberseguridad es una opción viable y poderosa, especialmente para organizaciones con recursos limitados. Si bien existen desafíos, la flexibilidad, transparencia y accesibilidad de estas herramientas hacen que valga la pena invertir en su implementación y desarrollo.
 
-{% file src="../.gitbook/assets/Tesis Implementación de un centro de operaciones de seguridad open source.pdf" %}
+{% file src="../../.gitbook/assets/Tesis Implementación de un centro de operaciones de seguridad open source.pdf" %}
 
-{% file src="../.gitbook/assets/Presentación Implementación de un centro de operaciones de seguridad open source.pdf" %}
+{% file src="../../.gitbook/assets/Presentación Implementación de un centro de operaciones de seguridad open source.pdf" %}
